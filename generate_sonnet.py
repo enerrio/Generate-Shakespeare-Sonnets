@@ -96,4 +96,4 @@ def generate_sonnet():
 if __name__ == '__main__':
     ''' Run main program '''
     generate_sonnet()
-    print("\nDone...")
+    print()
